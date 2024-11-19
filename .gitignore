@@ -1,0 +1,15 @@
+#Build artifacts
+/build/
+*.o
+*.exe
+*.out
+
+#Log Files
+*.log
+
+#Dependency Directories
+/libs/
+
+#Sensitive Data
+.env
+
